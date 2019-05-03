@@ -1,0 +1,8 @@
+channels:
+ - damianavila82
+dependencies:
+ - pandas
+ - matplotlib
+ - rise
+ - pip:
+    - git+git://github.com/mkrphys/ipython-tikzmagic.git
